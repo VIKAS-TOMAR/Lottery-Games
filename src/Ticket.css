@@ -1,0 +1,30 @@
+body{
+    background-color: #548687;
+}
+
+.p-text{
+    color: #ffffc7;
+    word-spacing: 2px;
+}
+.lottery{
+    text-align: center;
+}
+
+.ticket{
+    text-align: center;
+}
+
+.btn-class{
+    padding: 1rem;
+    font-size: 1.25rem;
+    border: none;
+    background-color: #191913;
+    color: #fff;
+    border: none;
+    border-radius: 1rem;
+    margin-top: 5px;
+}
+
+.win-text{
+    color: #fff;
+}
